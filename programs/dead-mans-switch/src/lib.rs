@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_lang::solana_program::sysvar::Sysvar;
 
 
-declare_id!("AMSMud7cW6iTcFkYxgfiUKsrHoNJ2wDS4Gwg9ZwjPpmw");
+declare_id!("AMSMud7cW6iTcFkYxgfiUKsrHoNJ2wDS4Gwg9ZwjPomw");
 
 #[program]
 pub mod dead_mans_switch {
